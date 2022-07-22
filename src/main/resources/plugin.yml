@@ -1,0 +1,4 @@
+name: Reverse
+version: '${project.version}'
+main: it.thundyy.reverselib.Reverse
+api-version: 1.18
